@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b7927b5a.css",
+    "main.js": "/static/js/main.6d263e03.js",
+    "static/js/978.3043c6a4.chunk.js": "/static/js/978.3043c6a4.chunk.js",
+    "static/js/930.b0f47f8c.chunk.js": "/static/js/930.b0f47f8c.chunk.js",
+    "static/js/510.1c261dab.chunk.js": "/static/js/510.1c261dab.chunk.js",
+    "static/js/812.152f0a14.chunk.js": "/static/js/812.152f0a14.chunk.js",
+    "static/js/551.36e82c98.chunk.js": "/static/js/551.36e82c98.chunk.js",
+    "static/js/651.75d2e9dd.chunk.js": "/static/js/651.75d2e9dd.chunk.js",
+    "static/js/27.3b370daa.chunk.js": "/static/js/27.3b370daa.chunk.js",
+    "static/js/764.5b02bd14.chunk.js": "/static/js/764.5b02bd14.chunk.js",
+    "static/js/362.e57b71e3.chunk.js": "/static/js/362.e57b71e3.chunk.js",
+    "static/js/508.21640f41.chunk.js": "/static/js/508.21640f41.chunk.js",
+    "static/js/703.365391fd.chunk.js": "/static/js/703.365391fd.chunk.js",
+    "static/js/225.967eade5.chunk.js": "/static/js/225.967eade5.chunk.js",
+    "static/js/480.aa2f65b2.chunk.js": "/static/js/480.aa2f65b2.chunk.js",
+    "static/js/889.90e92ce4.chunk.js": "/static/js/889.90e92ce4.chunk.js",
+    "static/js/550.5d43c137.chunk.js": "/static/js/550.5d43c137.chunk.js",
+    "static/js/562.5de3492d.chunk.js": "/static/js/562.5de3492d.chunk.js",
+    "static/js/918.fa5eb1b4.chunk.js": "/static/js/918.fa5eb1b4.chunk.js",
+    "static/js/798.52605ef1.chunk.js": "/static/js/798.52605ef1.chunk.js",
+    "static/media/web3.png": "/static/media/web3.a07b80df5f02f9200546.png",
+    "static/media/netflix.jpg": "/static/media/netflix.1dacc5d60d4f729d137e.jpg",
+    "static/media/js.webp": "/static/media/js.9a9a22f2a86fc2b0a47a.webp",
+    "static/media/spaceshooter.webp": "/static/media/spaceshooter.563be343a736ddcbd5e6.webp",
+    "static/media/academy.webp": "/static/media/academy.20f98886b0b1f46e1f3c.webp",
+    "static/media/youtube.jpg": "/static/media/youtube.7c593b1aa956883f4558.jpg",
+    "static/media/queppelin.jpg": "/static/media/queppelin.8fbdb6f196e298a7a5cb.jpg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.b7927b5a.css",
+    "static/js/main.6d263e03.js"
+  ]
+}
