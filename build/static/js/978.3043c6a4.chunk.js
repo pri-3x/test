@@ -1,1 +1,0 @@
-(self.webpackChunktwitter_clone=self.webpackChunktwitter_clone||[]).push([[978],{50522:function(){},66882:function(){}}]);
